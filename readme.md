@@ -24,7 +24,7 @@ Live link: https://acha-r.github.io/Bezao-TaskOne/<br />
 
 **PART TWO:** Built Menu system<br />
 Location: ./TaskTwo/main.js<br />
-To run: ./TaskTwo/index.html<br />
+To run on live server: ./TaskTwo/index.html<br />
 
 **Clone the project**
 
